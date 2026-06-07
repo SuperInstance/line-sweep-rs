@@ -1,0 +1,13 @@
+[package]
+name = "line-sweep-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Computational geometry via line sweep: segment intersection, closest pair, rectangle intersection"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/line-sweep-rs"
+keywords = ["line-sweep", "geometry", "intersection", "closest-pair", "algorithm"]
+categories = ["algorithms", "data-structures", "mathematics"]
+authors = ["SuperInstance"]
+readme = "README.md"
+
+[dependencies]
